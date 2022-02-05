@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d17e52c.css",
+    "main.js": "/static/js/main.662c0d0b.js",
+    "static/media/phones.png": "/static/media/phones.ba178ae7dec461614591.png",
+    "static/media/bgr2.png": "/static/media/bgr2.51c2fb6bba50cf4507e3.png",
+    "static/media/tablet.png": "/static/media/tablet.6fa8c3ff486234b3aeab.png",
+    "static/media/bgr1.png": "/static/media/bgr1.58b0968690f7eb3e651f.png",
+    "static/media/header.png": "/static/media/header.677bc42c5fac82402721.png",
+    "static/media/phone1.png": "/static/media/phone1.9125ab3e9f2d0f8bb445.png",
+    "static/media/phone3.png": "/static/media/phone3.140b864793cbf4f8b80b.png",
+    "static/media/waves.png": "/static/media/waves.4de938c26e05ba3927d5.png",
+    "static/media/phone2.png": "/static/media/phone2.d65210620e7613510a3a.png",
+    "static/media/companies.png": "/static/media/companies.b44d0847ad6b50e25f29.png",
+    "index.html": "/index.html",
+    "main.4d17e52c.css.map": "/static/css/main.4d17e52c.css.map",
+    "main.662c0d0b.js.map": "/static/js/main.662c0d0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d17e52c.css",
+    "static/js/main.662c0d0b.js"
+  ]
+}
